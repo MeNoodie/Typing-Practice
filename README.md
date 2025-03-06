@@ -1,4 +1,4 @@
-⌨️ Typing Speed & Accuracy Test 🚀
+# ⌨️ Typing Speed & Accuracy Test 🚀
 
 Improve your typing skills with the Typing Speed & Accuracy Test! This tool challenges your typing speed and precision, helping you enhance efficiency and reduce errors. Whether you're a programmer, a content writer, or just someone looking to type faster, this project is for you!
 
